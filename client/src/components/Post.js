@@ -9,7 +9,7 @@ export default function Post() {
         <h2>Full-house battery backup coming later this year</h2>
         <p className="info">
           <a className="author">Rajesh</a>
-          <time>2024-01-05 19:40</time>
+          <time>{new Date().toLocaleString()}</time>
         </p>
         <p className="description">
           Founded in 1937, Volkswagen is a German automaker that has gained a

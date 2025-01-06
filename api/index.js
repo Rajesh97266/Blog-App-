@@ -31,6 +31,3 @@ app.post("/register", async (req, res) => {
 
 app.listen(4000);
 
-//MMNx1PfhL8ZxJJqZ
-
-//mongodb+srv://rajesh97266:MMNx1PfhL8ZxJJqZ@cluster0.fomno.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
